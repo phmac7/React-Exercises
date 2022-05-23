@@ -1,0 +1,26 @@
+.ex7__container{
+    width: fit-content;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: .8rem;
+}
+
+.form__input{
+    padding: .3rem .4rem;
+    border-radius: 5px;
+    outline-color: #ed4062;
+    border: 2px solid #fbc6a7;
+    width: 250px;
+}
+
+.form__btn{
+    background-image: linear-gradient(to bottom right, #ed4062, #fbc6a7);
+    border-radius: 0px 30px 30px 30px;
+    padding: .8rem 3rem;
+    color: #370C0C;
+    border: none;
+    cursor: pointer;
+}

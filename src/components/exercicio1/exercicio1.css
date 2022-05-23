@@ -1,0 +1,14 @@
+.ex1__container{
+    width: 500px;
+    height: 500px;
+    background-color: pink;
+    position: relative;
+}
+
+.ex1__title{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 20px;
+}

@@ -1,0 +1,7 @@
+.ex4__container{
+    width: fit-content;
+    text-align: center;
+}
+.ex4__container p {
+    margin-bottom: 10px;
+}

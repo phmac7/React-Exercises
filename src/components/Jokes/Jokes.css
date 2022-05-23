@@ -1,0 +1,25 @@
+.joke__container{
+    padding: 3rem 0;
+    border-radius: 0px 30px 30px 30px;
+    color: #370C0C;
+    position: relative;
+}
+
+.joke__container:nth-child(odd){
+    background-color: #ed4062;
+}
+
+.joke__container:nth-child(even){
+    background-color: #fbc6a7;
+}
+
+.joke__question {
+    background-color:#fff ;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+.joke__answer {
+    font-size: 16px;
+    font-weight: 500;
+}

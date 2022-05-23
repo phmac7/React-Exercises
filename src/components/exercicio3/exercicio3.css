@@ -1,0 +1,5 @@
+.ex3__container{
+    width: fit-content;
+    display: flex;
+    gap: 1rem;
+}

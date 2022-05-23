@@ -1,0 +1,14 @@
+.list {
+    list-style: none;
+    display:flex;
+    flex-direction: column;
+    gap: .8rem;
+    text-align: center;
+}
+
+.list__item {
+    background-image: linear-gradient(to bottom right, #ed4062, #fbc6a7);
+    border-radius: 0px 30px 30px 30px;
+    padding: .8rem 3rem;
+    color: #370C0C;
+}

@@ -1,0 +1,10 @@
+.ex8__container{
+    width: 650px;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    text-align: center;
+    background-color: #f0e9cd;
+    border-radius: 15px ;
+    padding: 4rem;
+}
